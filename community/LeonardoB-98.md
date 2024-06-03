@@ -2,7 +2,7 @@
 ## Sobre mim
 - Meu nome é Leonardo Barbosa 🙋‍♂️, sou auxiliar administrativo em uma empresa sucroalcooleira, e meio periodo trabalho em um escritório que tem suas atividades voltadas para processos PCD.
 - Formado em Analise e Desenvolvimento de Sistemas no final do ano passado.
-- No momento estou em busca de uma vaga para iniciar na área.
+- No momento estou em busca de uma vaga para iniciar na área de Backend.
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
